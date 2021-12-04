@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://qrc-generator.netlify.app/ 
 
-(##THE API BEING USED IS LIMITED AND DOESN'T SUPPORT MANY URLS.)
+## (THE API BEING USED IS LIMITED AND DOESN'T SUPPORT MANY URLS.)
 
-(##THIS PROJECT WAS FOR A SMALL PRACTICE ONLY.)
+## (THIS PROJECT WAS FOR A SMALL PRACTICE ONLY.)
 
 ## Available Scripts
 
