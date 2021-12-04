@@ -4,7 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Address
 
-https://qrc-generator.netlify.app/
+https://qrc-generator.netlify.app/ 
+(THE API BEING USED IS LIMITED AND DOESN'T SUPPORT MANY URLS.
+
+THIS PROJECT WAS FOR A SMALL PRACTICE ONLY.)
 
 ## Available Scripts
 
